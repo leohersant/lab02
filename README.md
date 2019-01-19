@@ -7,4 +7,15 @@
 - git push du repertoire lab02
 - git push un programme c
 ----
+Ceci est un simple texte. Pour faire du bold utilise _
+_underscores_.
+
+List
+____
+____
+
+1. ligne un
+2. ligne deux
+3. ligne trois
+
 #### Auteur: Leonardo Hernandez
