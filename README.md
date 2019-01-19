@@ -2,6 +2,8 @@
 ----
 ## Connection à github du à partir du laboratoire de l'uqam
 ----
+[MARKDOWN SYNTAXE](https://www.markdownguide.org/cheat-sheet/)
+----
 [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - git pull du repertoire du prof
 - git push du repertoire lab02
